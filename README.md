@@ -32,9 +32,9 @@ Here we use plotly library for data visualization.
 
 **Creating Dashboard:** We'll create the end dashboard by using Power BI Desktop and we'll publish the dashboard to the Power BI Service where we can share it in online for anyone.
 
-**The entire visualizations are done using plotly library.But github doesn't support dynamic visualizations. So, use this link to view the code with visualization**: <a href="https://nbviewer.org/github/yuvaneshkm/pizza_sales_analysis/blob/main/pizza_sales_analysis.ipynb">Python Code</a>
+**The entire visualizations are done using plotly library.But github doesn't support dynamic visualizations. So, use this link to view the code with visualization**: <a href="https://nbviewer.org/github/yuvaneshkm/pizza_sales_analysis/blob/main/pizza_sales_analysis.ipynb" target="_blank">Python Code</a>
 
-**link for the dashboard**: <a href="https://app.powerbi.com/groups/me/reports/19f345fc-9432-4ad7-8fa4-a4740bb247c2/ReportSection?experience=power-bi">Pizza Sales Analysis Dashboard</a>
+**link for the dashboard**: <a href="https://app.powerbi.com/groups/me/reports/19f345fc-9432-4ad7-8fa4-a4740bb247c2/ReportSection?experience=power-bi" target="_blank">Pizza Sales Analysis Dashboard</a>
 
 
 **Note:** Prior knowledge of Python programming is recommended for a better understanding of this project concepts.
