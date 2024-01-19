@@ -1,4 +1,4 @@
-# Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
 
 ## Overview
 * In this exciting Pizza Sales Analysis project, we dive into the world of data, Python and Power Bi to uncover valuable insights from Pizza Sales Data.
